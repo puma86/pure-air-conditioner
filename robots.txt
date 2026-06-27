@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chimerical-cactus-bcf644.netlify.app/sitemap.xml
